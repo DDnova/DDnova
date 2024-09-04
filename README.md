@@ -6,9 +6,9 @@
 
 # Project Title
 
-![Badge 1](https://github.com/DDnova/DDnova/RedHatTitan.png)
-![Badge 2](https://github.com/DDnova/DDnova/OpenSourcer-er.png)
-![Badge 3](https://github.com/DDnova/DDnova/Command-LineCaptain.png)
+![Badge 1](Redhat/Command-LineCaptain.png)
+![Badge 2](Redhat/OpenSourcer-er.png)
+![Badge 3](Redhat/Command-LineCaptain.png)
 
 
 ## Hi there 👋
