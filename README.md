@@ -6,9 +6,7 @@
 
 # Project Title
 
-![Badge 1](Redhat/Command-LineCaptain.png)
-![Badge 2](Redhat/OpenSourcer-er.png)
-![Badge 3](Redhat/Command-LineCaptain.png)
+![Badge 1](Redhat/Command-LineCaptain.png) ![Badge 2](Redhat/OpenSourcer-er.png) ![Badge 3](Redhat/Command-LineCaptain.png)
 
 
 ## Hi there 👋
