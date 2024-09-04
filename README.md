@@ -1,5 +1,8 @@
 <img src="https://komarev.com/ghpvc/?username=DDnova&style=flat-square&color=blue" alt=""/>
 
+<!-- Markdown -->
+
+![Jokes Card](https://readme-jokes.vercel.app/api)
 
 ## Hi there 👋
 
