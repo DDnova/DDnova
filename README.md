@@ -4,9 +4,10 @@
 
 ![Jokes Card](https://readme-jokes.vercel.app/api)
 
-# Project Title
+<img src="Redhat/Command-LineCaptain.png" alt="Badge 1" width="100"/> 
+<img src="Redhat/OpenSourcer-er.png" alt="Badge 2" width="100"/> 
+<img src="Redhat/Command-LineCaptain.png" alt="Badge 3" width="100"/>
 
-![Badge 1](Redhat/Command-LineCaptain.png) ![Badge 2](Redhat/OpenSourcer-er.png) ![Badge 3](Redhat/Command-LineCaptain.png)
 
 
 ## Hi there 👋
