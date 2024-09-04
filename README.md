@@ -1,3 +1,6 @@
+<img src="https://komarev.com/ghpvc/?username=DDnova&style=flat-square&color=blue" alt=""/>
+
+
 ## Hi there 👋
 
 <!--
