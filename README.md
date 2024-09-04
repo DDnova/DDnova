@@ -4,6 +4,13 @@
 
 ![Jokes Card](https://readme-jokes.vercel.app/api)
 
+# Project Title
+
+![Badge 1](https://github.com/DDnova/DDnova/RedHatTitan.png)
+![Badge 2](https://github.com/DDnova/DDnova/OpenSourcer-er.png)
+![Badge 3](https://github.com/DDnova/DDnova/Command-LineCaptain.png)
+
+
 ## Hi there 👋
 
 <!--
