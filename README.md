@@ -5,7 +5,7 @@
 ![Jokes Card](https://readme-jokes.vercel.app/api)
 
 <p align="left">
-  <img src="Redhat/Command-LineCaptain.png" alt="Badge 1" width="200"/>
+  <img src="Redhat/RedHatTitan.png" alt="Badge 1" width="200"/>
   <img src="Redhat/OpenSourcer-er.png" alt="Badge 2" width="200"/>
   <img src="Redhat/Command-LineCaptain.png" alt="Badge 3" width="200"/>
 </p>
