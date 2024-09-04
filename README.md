@@ -4,9 +4,12 @@
 
 ![Jokes Card](https://readme-jokes.vercel.app/api)
 
-<img src="Redhat/Command-LineCaptain.png" alt="Badge 1" width="100"/> 
-<img src="Redhat/OpenSourcer-er.png" alt="Badge 2" width="100"/> 
-<img src="Redhat/Command-LineCaptain.png" alt="Badge 3" width="100"/>
+<p align="center">
+  <img src="Redhat/Command-LineCaptain.png" alt="Badge 1" width="100"/>
+  <img src="Redhat/OpenSourcer-er.png" alt="Badge 2" width="100"/>
+  <img src="Redhat/Command-LineCaptain.png" alt="Badge 3" width="100"/>
+</p>
+
 
 
 
